@@ -1,3 +1,7 @@
+<img width="1490" height="775" alt="image" src="https://github.com/user-attachments/assets/a18967de-37aa-40c2-8714-35ae2796efcc" />
+
+
+
 # AWS Continuous Integration Demo
 
 ## Set Up GitHub Repository
